@@ -1,0 +1,1 @@
+Esse exercicio trata-se de uma automação em **Python**, utilizando _a biblioteca Selenium_.
